@@ -128,8 +128,8 @@
                 <txtFileVersion>${project.version}</txtFileVersion>
                 <fileDescription>${project.name}</fileDescription>
                 <copyright>2013 jlalande.com</copyright>
-                <productVersion>${parsedVersion.majorVersion}.${parsedVersion.minorVersion}.${parsedVersion.incrementalVersion}.${buildNumber}</productVersion>
-                <txtProductVersion>${parsedVersion.majorVersion}.${parsedVersion.minorVersion}.${parsedVersion.incrementalVersion}.${buildNumber}</txtProductVersion>
+                <productVersion>${parsedVersion.majorVersion}.${parsedVersion.minorVersion}.${parsedVersion.incrementalVersion}.0</productVersion>
+                <txtProductVersion>${parsedVersion.majorVersion}.${parsedVersion.minorVersion}.${parsedVersion.incrementalVersion}.0</txtProductVersion>
                 <productName>${project.name}</productName>
                 <companyName>jlalande.com</companyName>
                 <internalName>${project.name}</internalName>
