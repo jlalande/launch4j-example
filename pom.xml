@@ -118,7 +118,7 @@
                 <mainClass>com.jlalande.example.launch4j.Main</mainClass>
                 <preCp>anything</preCp>
               </classPath>
-              <!-- <icon>src/main/resources/icon/application.ico</icon> -->
+              <icon>src/main/resources/Erik-Smiley.ico</icon>
               <jre>
                 <minVersion>1.6.0</minVersion>
                 <jdkPreference>preferJre</jdkPreference>
